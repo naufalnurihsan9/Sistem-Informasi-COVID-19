@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1099098506634",
+    "project_id": "sistem-info-covid-19",
+    "storage_bucket": "sistem-info-covid-19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099098506634:android:fcbecba28eb345a2bfb473",
+        "android_client_info": {
+          "package_name": "com.example.sistem_informasiCovid19"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099098506634-f6ahp2aphglov96iqt6au25t92boppbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQTYQ90iDrpXM5_xz2JFNP4aTZXdZuWh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099098506634-f6ahp2aphglov96iqt6au25t92boppbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
